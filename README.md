@@ -2,6 +2,8 @@
 Read the wiki for more information and documentation.
 
 ## Progress
+> At the moment, there are no plans to include stations outside of the London Oyster Fare zones in the near future, so some stations from TfL Rail and London Overground, as well as most national rail lines, are not included in the progress bars below.
+
 ### London Underground
 ![Bakerloo line progress](https://arturs.site/apis/bestexits/progress/bakerloo?)
 
@@ -36,8 +38,6 @@ Read the wiki for more information and documentation.
 
 
 ### National Rail
-> These lines include stations outside of London. These stations will likely not be added to this API any time in the near future, so these bars will not reach 100%.
-
 ![Chiltern Railways progress](https://arturs.site/apis/bestexits/progress/chiltern-railways?)
 
 ![c2c progress](https://arturs.site/apis/bestexits/progress/c2c?)
