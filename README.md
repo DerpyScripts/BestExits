@@ -1,5 +1,5 @@
 # BestExits
-Read the wiki for more information and documentation.
+Visit [this website](https://docs.arturs.site/docs/bestexits) for more information and the API documentation.
 
 ## Progress
 > At the moment, there are no plans to include stations outside of the London Oyster Fare zones in the near future, so some stations from TfL Rail and London Overground, as well as most national rail lines, are not included in the progress bars below.
